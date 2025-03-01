@@ -1,19 +1,16 @@
 # E-learning Education
 
-**E-learning Education** adalah platform pembelajaran daring yang dirancang untuk menyediakan pengalaman belajar yang interaktif dan mudah diakses bagi pengguna. Platform ini memungkinkan pengguna untuk mengakses berbagai kursus dan materi pendidikan secara online.
+**E-learning Education** adalah platform pembelajaran daring yang dirancang untuk menyediakan pengalaman belajar yang interaktif dan mudah diakses bagi pengguna. Platform ini memungkinkan pengguna untuk mengakses berbagai kursus dan materi pendidikan secara online pembuatan web ini hanya untuk bertujuan pembelajaran. 
 
 ## Fitur
 
-- **Katalog Kursus Terstruktur**: Pengguna dapat menjelajahi berbagai kursus yang tersedia dengan deskripsi yang jelas dan terperinci.
-- **Desain Responsif**: Antarmuka yang dirancang agar kompatibel dengan berbagai perangkat, termasuk desktop, tablet, dan ponsel pintar.
-- **Autentikasi Pengguna**: Sistem registrasi dan login untuk pengalaman belajar yang dipersonalisasi.
-- **Manajemen Konten**: Instruktur dapat menambahkan, mengedit, dan menghapus kursus serta materi pembelajaran.
-- **Interaksi Pengguna**: Fitur seperti forum diskusi dan sesi tanya jawab untuk meningkatkan interaksi antara pengguna dan instruktur.
+- **Desain Responsif**: Antarmuka yang dirancang agar kompatibel dengan berbagai perangkat, termasuk desktop, tablet, dan ponsel pintar
 
 ## Teknologi yang Digunakan
 
 - **Frontend**: Dibangun menggunakan [React](https://reactjs.org/) dengan bantuan [Vite](https://vitejs.dev/) untuk bundling dan pengembangan cepat.
 - **Styling**: Menggunakan [Tailwind CSS](https://tailwindcss.com/) untuk desain yang responsif dan modern.
+- **Framer Motion**: Menggunakan [Framer Motion]([https://tailwindcss.com/](https://www.npmjs.com/package/framer-motion)) untuk melakukan animasi terhadap komponent.
 
 ## 🔧 Instalasi
 
